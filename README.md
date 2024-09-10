@@ -1,4 +1,3 @@
-Here’s the text formatted for a GitHub README file based on the provided reference:
 
 ---
 
